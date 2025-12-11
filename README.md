@@ -2,7 +2,6 @@
 
 I'm an Electrical Engineer turned junior developer, passionate about technology and programming. Currently, I focus on **Python** and **web development**, always eager to learn and grow through personal projects and challenges.
 
----
 
 ## About Me
 
@@ -21,7 +20,6 @@ I'm an Electrical Engineer turned junior developer, passionate about technology 
 
 - 💡 I enjoy learning quickly, experimenting with new technologies, and building practical solutions, even through small personal projects.
 
----
 
 ## Skills
 
@@ -34,7 +32,6 @@ React | Next.js | Tailwind CSS | Chakra UI | Shadcn UI | Prisma | Pandas | NumPy
 **Other:**  
 Git & GitHub | Automation | Data Analysis | Data Visualization | Machine Learning | Deep Learning | Trading Bots  
 
----
 
 ## Goals
 
@@ -43,7 +40,6 @@ Git & GitHub | Automation | Data Analysis | Data Visualization | Machine Learnin
 - Contribute to open-source projects to gain practical experience  
 - Continuously learn and apply new technologies  
 
----
 
 ## Contact
 
